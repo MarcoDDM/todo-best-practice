@@ -5,7 +5,7 @@
   <img src="soyMarco.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>To-Do List | README</b></h3>
+  <h3><b>Awesome Books ES6 | README</b></h3>
 
 </div>
 
